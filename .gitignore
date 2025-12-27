@@ -1,0 +1,12 @@
+newenv11/
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.log
+Artifacts/
+final_model/
+prediction_output/
